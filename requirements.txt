@@ -1,25 +1,23 @@
 streamlit
-# Utilitites 
+
+# Utilities
 numpy
 pandas
 
-# FACE RECOGNITION
+# Face Recognition
 scikit-learn
 dlib-bin
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
 webrtcvad-wheels
 
-
+# Database / Authentication
 supabase
 bcrypt
 
-
-
+# Image / QR
 segno
 pillow
 
-
-
+# Audio
 librosa
-resemblyzer
